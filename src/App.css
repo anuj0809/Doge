@@ -1,0 +1,18 @@
+.App {
+  position: relative;
+  align-items: center; 
+}
+
+.adjustWallet{
+  height: 30px !important;
+  align-self: center !important;
+  text-align: center !important;
+  align-items: center !important;
+  margin-left: 50px !important;
+}
+.btn{
+  margin-left: 50px !important;
+  margin-bottom: 100px !important;
+  height: 30px !important;
+  background-color: #4CAF50 !important;
+}
